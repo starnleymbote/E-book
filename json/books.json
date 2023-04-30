@@ -1,0 +1,16 @@
+[
+  {
+    "rating" : "4.9",
+    "title" : "Life of a criminal",
+    "text" : "John K.",
+    "img" : "images/image-5.jpg",
+    "audio" : "life_of_criminal.mp3"
+  },
+  {
+    "rating" : "4.3",
+    "title" : "How I made it",
+    "text" : "John K.",
+    "img" : "images/image-4.jpg",
+    "audio" : "life_of_criminal.mp3"
+  }
+]

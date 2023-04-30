@@ -1,0 +1,24 @@
+[
+  {
+    "rating" : "4.5",
+    "title" : "Hey buddy",
+    "text" : "Stan Wright",
+    "img" : "images/image-1.jpg",
+    "audio" : "stan.mp3"
+  },
+  {
+    "rating" : "4.6",
+    "title" : "Mrs Right",
+    "text" : "Angela Makeu",
+    "img" : "images/image-6.jpg",
+    "audio" : "bonita-hey.mp3"
+  },
+  {
+    "rating" : "4.8",
+    "title" : "Wambui Njomo",
+    "text" : "My life",
+    "img" : "images/image-4.jpg",
+    "audio" : "my_name_is.mp3"
+  }
+
+]
